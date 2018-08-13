@@ -1,0 +1,26 @@
+ {
+  "name": "galentio/black-ops-4 beta-codes-generator",
+  "version": "1.0.3",
+  "description": "Free Black Ops 4 Beta Codes (Bo4 Code Generator) +Download! thumb *NEW* HOW TO GET BO4 BETA CODES INSTANTLYBO4 Beta Code Generator Black Ops 4 Beta Code Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "free Blackops 4 Beta Codes generator",
+    "Blackops 4 Beta Codes hack",
+    "Blackops 4 Beta Codes free Blackops 4",
+    "Blackops 4 hack Beta Codes",
+    "How to get free Blackops 4 Beta Codes "
+  ],
+  
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/galentio/black-ops-4-beta-codes-generator"
+}
